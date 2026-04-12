@@ -13,6 +13,15 @@
 .high{
     text-align: center;
 }
-.loer{
+.pg{
+    text-align: center;
+}
+.rutu{
+   background-color:whitesmoke
+}
+.box{
+    background-color: white;
+    padding: 0px 30px;
+    width: 40%;
     text-align: center;
 }
